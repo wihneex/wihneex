@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @wihneex
-- 👀 I’m interested in programming, coding
-- 🌱 I’m currently learning LUA, C#
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me Discord: wihneex, gmail: kiryagyz@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i hate fish.
+Hi, I’m @wihneex
+I’m interested in programming, coding
+I’m currently learning LUA, C#
+I’m looking to collaborate on ?
+How to reach me Discord: wihneex, gmail: kiryagyz@gmail.com
+Pronouns: he/him
+Fun fact: ?
 
 <!---
 wihneex/wihneex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
